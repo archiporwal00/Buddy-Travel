@@ -33,7 +33,11 @@ npm run build
 
 
 
+<<<<<<< HEAD
 My thought process behind the app's design and implementation.
+=======
+                                                                       My thought process behind the app's design and implementation.
+>>>>>>> dba0334 (Initial commit)
 
  
 
